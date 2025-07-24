@@ -1,4 +1,8 @@
-## Visit my [personal github.io page](https://ivnlum.github.io/)
+## Visit my...
+[github.io page](https://ivnlum.github.io/)
+
+[Youtube channel](https://www.youtube.com/@Ivan_Lum)
+
 <!--
 **IvnLum/IvnLum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
