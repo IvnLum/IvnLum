@@ -2,10 +2,6 @@
 [github.io page](https://ivnlum.github.io/)
 
 [Youtube channel](https://www.youtube.com/@Ivan_Lum)
-
-## Coding Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvnLum)
-
 <!--
 **IvnLum/IvnLum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
